@@ -1,0 +1,11 @@
+{
+  "name": "rest-server",
+  "version": "1.0.0",
+  "description": "rest server for cool app",
+  "title": "app backend",
+  "url" : "http://localhost:8010",
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
